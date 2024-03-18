@@ -18,4 +18,7 @@ Bu program, temel geometrik hesaplamaları yapmak ve öğrencilerin pratik yapma
 
 Katkılarınız ve geri bildirimleriniz her zaman açıktır, böylece programı daha da geliştirebiliriz.
 
+![image](https://github.com/esmanur-karatas/javaAlgorithmExamples/assets/83882274/cd0f24fc-eb20-4729-8df5-344c322cbeb3)
+
+
 İyi kullanımlar!
