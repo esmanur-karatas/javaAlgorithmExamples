@@ -10,3 +10,5 @@ Eğer sıcaklık 15 ile 25 arasındaysa, "doğanın tadını çıkararak piknik 
 Eğer sıcaklık 25'ten büyükse, "havuzda yüzme keyfi" önerilir.
 Son olarak, etkinlik ve sıcaklık değerini kullanma mesaj olarak gösterilir.
 
+![image](https://github.com/esmanur-karatas/javaAlgorithmExamples/assets/83882274/a2a76bec-f6cb-45e3-9510-9ea3e5c89093)
+
