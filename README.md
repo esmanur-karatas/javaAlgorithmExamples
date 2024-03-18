@@ -80,7 +80,17 @@ Bu repo, Java dilinde temel algoritma problemlerine dair örnekler içermektedir
  
  38.Yıldızlar ile Elmas Yapma 
 
- 39.Football Player
+ 39.Matris Oluşturma ve Matris Sayılarının Çarpımı
+
+ 40.Football Player
+
+ 41.Dizileri Kullanarak Kare Oluşturma
+
+ 42.StringBuilder Sınıfı Kullanımı 
+
+ 43.Ternary Kullanımı
+
+ 44.Değişkenler
 ## Nasıl Çalıştırılır
 
 Her bir problem için ayrı bir Java dosyası bulunmaktadır. Her dosyanın içinde problemle ilgili açıklamalar ve çözüm bulunmaktadır. Kodları çalıştırmak için herhangi bir Java IDE veya Java derleyici kullanabilirsiniz.
