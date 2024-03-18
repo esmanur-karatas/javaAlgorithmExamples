@@ -5,10 +5,15 @@ Bu repo, Java dilinde temel algoritma problemlerine dair örnekler içermektedir
 ## Problemler Listesi
 
  1.Artık Yıl Hesaplama 
+ 
  2.Asal Sayı Bulma
+ 
  3.Switch Case İle Atm Uygulaması
+ 
  4.Girilen Sayıların Rakamları Toplamını Bulma
+ 
  5.Box Maçı 
+ 
  6.Gün Ve Ay'a Göre Burç Bulma
  7.Hesap Makinesi 
  8.Çin Zodyağı Hesaplama
