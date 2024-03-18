@@ -7,7 +7,7 @@ Bu Java programı, kullanıcının girdiği bir sayının asal bir sayı olup ol
 Programı çalıştırdığınızda, bir sayı girmeniz istenir.
 Girilen sayının asal bir sayı olup olmadığı kontrol edilir ve sonuç ekrana yazdırılır.
 
-##Özellikler
+## Özellikler
 
 Asal Sayı Kontrolü: Girilen sayının asal bir sayı olup olmadığı kontrol edilir.
 Recursive Metot Kullanımı: Bir metot kullanılarak sayının asal olup olmadığı kontrol edilir. Bu metot, kendisinden küçük sayılar ile rekürsif olarak kontrol eder.
