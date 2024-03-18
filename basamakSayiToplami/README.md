@@ -1,14 +1,16 @@
-# Basamak Sayılarının Toplamını Hesaplayan Program
+# Basamak Sayı Toplama Programı
+Bu program, kullanıcıdan bir tam sayı alır ve bu sayının basamaklarındaki rakamların toplamını hesaplar.
 
-Bu proje, kullanıcının girdiği sayının basamak sayılarının toplamını hesaplayan bir Java programını içermektedir.
+## Nasıl Çalışır?
+-İlk olarak, bir Scanner nesnesi oluşturulur ve kullanıcıdan bir tam sayı girmesi istenir.
+-Girilen sayı bir değişkene (sayi) atanır.
+-Bir döngü kullanılarak, sayının her basamağına erişilir:
+-Her döngü adımında, temp adlı geçici bir değişkende sayının kalanı alınarak (temp % 10) ve bu kalan basamak adlı bir değişkene atanır.
+-Bu basamak değeri toplam değişkenine eklenir.
+-Ardından, temp değişkeni 10'a bölünerek bir sonraki basamağa geçilir (temp /= 10).
+-Bu işlem, temp değişkeni sıfır olana kadar devam eder.
+-Döngü bittikten sonra, basamakların toplamı ekrana yazdırılır.
 
-## Kullanım
+## Örnek Kullanım:
 
-1. Bir sayı girin.
-2. Program, girilen sayının basamak sayılarının toplamını hesaplar ve sonucu görüntüler.
-
-## Detaylar
-
-Bu program, kullanıcının girdiği sayının basamak sayılarının toplamını hesaplar. Örneğin, 1643 sayısının basamakları olan 1, 6, 4 ve 3'ün toplamı 14'tür.
-
-
+![image](https://github.com/esmanur-karatas/javaAlgorithmExamples/assets/83882274/bf16be14-4001-49b0-8cfb-6905ce45e789)
