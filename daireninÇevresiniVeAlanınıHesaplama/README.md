@@ -16,4 +16,7 @@ Bu program, daire ile ilgili temel geometrik hesaplamaları yapmak ve öğrencil
 
 Katkılarınız ve geri bildirimleriniz her zaman açıktır, böylece programı daha da geliştirebiliriz.
 
+![image](https://github.com/esmanur-karatas/javaAlgorithmExamples/assets/83882274/0cea5dcd-a55c-485e-b84e-92ff6aca6cf8)
+
+
 İyi kullanımlar!
