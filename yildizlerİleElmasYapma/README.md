@@ -11,3 +11,4 @@ Bu proje, kullanıcının girdiği yıldız sayısı ile yıldızlarla bir elmas
 
 Bu program, kullanıcının girdiği yıldız sayısına göre yıldızlarla bir elmas şekli çizer. İki farklı döngü kullanılarak şekil oluşturulur.
 
+![image](https://github.com/esmanur-karatas/javaAlgorithmExamples/assets/83882274/db2ead62-2004-4d09-ad09-48d4e5dcfc50)
