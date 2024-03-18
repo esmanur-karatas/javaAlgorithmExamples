@@ -13,3 +13,6 @@ Bu proje, kullanıcının doğum tarihi ay ve gününe göre burcunu belirleyen 
 Bu program, kullanıcının doğum tarihi ay ve gününe göre tarih aralıklarını kontrol ederek hangi burca ait olduğunu belirler. Doğum tarihi, ay ve gün değerlerine göre `if-else` ifadeleri kullanılarak kontrol edilir ve sonuç olarak ilgili burç adı ekrana yazdırılır.
 
 
+![image](https://github.com/esmanur-karatas/javaAlgorithmExamples/assets/83882274/4a554666-f528-4c5b-a660-f70ea5217ae9)
+
+
