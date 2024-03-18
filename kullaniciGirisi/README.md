@@ -11,3 +11,4 @@ Bu proje, Java programlama dili kullanılarak bir şifre sıfırlama senaryosunu
 5. Farklı şifreler girildiyse, "Şifre oluşturuldu!" mesajı görüntülenir.
 
 
+![image](https://github.com/esmanur-karatas/javaAlgorithmExamples/assets/83882274/d8c05aad-c21f-48c1-92c4-29bb7905ae22)
