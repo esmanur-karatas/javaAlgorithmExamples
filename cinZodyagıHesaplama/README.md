@@ -14,5 +14,7 @@ Bu program, kullanıcının verdiği doğum yılını 12 ile bölerek Çin Zodya
 ## Senaryo
 
 **Senaryo:**
-Doğum Yılınızı Giriniz: 1990
-Çin Zodyağı Burcunuz: At
+
+
+![image](https://github.com/esmanur-karatas/javaAlgorithmExamples/assets/83882274/32cbaaac-2c3c-47f0-bff4-c4507a2fd889)
+
