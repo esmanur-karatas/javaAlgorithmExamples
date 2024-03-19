@@ -97,6 +97,8 @@ Bu repo, Java dilinde temel algoritma problemlerine dair örnekler içermektedir
  46.FizzBuzz Oyunu
 
  47.Girilen Sayıya Kadar Olan Tüm Asal Sayıları Ekrana Yazdırma
+
+ 48. Kullanıcıdan Alınan kelime ya da cümledeki harflerin arasına "*" karakteri koyan program 
 ## Nasıl Çalıştırılır
 
 Her bir problem için ayrı bir Java dosyası bulunmaktadır. Her dosyanın içinde problemle ilgili açıklamalar ve çözüm bulunmaktadır. Kodları çalıştırmak için herhangi bir Java IDE veya Java derleyici kullanabilirsiniz.
