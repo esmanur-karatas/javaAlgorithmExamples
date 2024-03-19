@@ -4,25 +4,25 @@ Bu repo, Java dilinde temel algoritma problemlerine dair örnekler içermektedir
 
 ## Problemler Listesi
 
- 1.Artık Yıl Hesaplama 
+  1.Artık Yıl Hesaplama 
  
- 2.Asal Sayı Bulma
+  2.Asal Sayı Bulma
  
- 3.Switch Case İle Atm Uygulaması
+  3.Switch Case İle Atm Uygulaması
  
- 4.Girilen Sayıların Rakamları Toplamını Bulma
+  4.Girilen Sayıların Rakamları Toplamını Bulma
  
- 5.Box Maçı 
+  5.Box Maçı 
  
- 6.Gün Ve Ay'a Göre Burç Bulma
+  6.Gün Ve Ay'a Göre Burç Bulma
  
- 7.Hesap Makinesi 
+  7.Hesap Makinesi 
  
- 8.Çin Zodyağı Hesaplama
+  8.Çin Zodyağı Hesaplama
  
- 9.Dairenin Çevresini Ve Alanını Hesaplama 
- 
- 10.Ebob Ekok Hesaplama
+  9.Dairenin Çevresini Ve Alanını Hesaplama 
+  
+  10.Ebob Ekok Hesaplama
  
  11.Fibonacci Serisi
  
@@ -102,6 +102,7 @@ Bu repo, Java dilinde temel algoritma problemlerine dair örnekler içermektedir
      
 49. Girilen Sayfa Sayısına Göre Fotokopi Fiyatı Hesaplama
 50. Monte Carlo Pi Sayısı Hesaplama
+51. Sieve Of Eratosthenes Algoritması ile Asal Sayıların Sayısını Hesaplama
 ## Nasıl Çalıştırılır
 
 Her bir problem için ayrı bir Java dosyası bulunmaktadır. Her dosyanın içinde problemle ilgili açıklamalar ve çözüm bulunmaktadır. Kodları çalıştırmak için herhangi bir Java IDE veya Java derleyici kullanabilirsiniz.
