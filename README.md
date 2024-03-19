@@ -93,6 +93,8 @@ Bu repo, Java dilinde temel algoritma problemlerine dair örnekler içermektedir
  44.Değişkenler
 
  45.Girilen Sayının Rakamlarını Tersine Çevirme
+
+ 46.FizzBuzz Oyunu
 ## Nasıl Çalıştırılır
 
 Her bir problem için ayrı bir Java dosyası bulunmaktadır. Her dosyanın içinde problemle ilgili açıklamalar ve çözüm bulunmaktadır. Kodları çalıştırmak için herhangi bir Java IDE veya Java derleyici kullanabilirsiniz.
