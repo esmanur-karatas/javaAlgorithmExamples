@@ -103,6 +103,7 @@ Bu repo, Java dilinde temel algoritma problemlerine dair örnekler içermektedir
 49. Girilen Sayfa Sayısına Göre Fotokopi Fiyatı Hesaplama
 50. Monte Carlo Pi Sayısı Hesaplama
 51. Sieve Of Eratosthenes Algoritması ile Asal Sayıların Sayısını Hesaplama
+52. Do-While Döngüsü İle Consoldan Girilen Değere Göre Yıldızlarla Üçgen Bastırma
 ## Nasıl Çalıştırılır
 
 Her bir problem için ayrı bir Java dosyası bulunmaktadır. Her dosyanın içinde problemle ilgili açıklamalar ve çözüm bulunmaktadır. Kodları çalıştırmak için herhangi bir Java IDE veya Java derleyici kullanabilirsiniz.
