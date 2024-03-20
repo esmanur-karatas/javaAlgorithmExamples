@@ -107,6 +107,7 @@ Bu repo, Java dilinde temel algoritma problemlerine dair örnekler içermektedir
 53. Do-While Döngüsü İle Consola 0 Değeri Girilene Kadar Girilen Tüm Değerleri Toplamını Yazdırma
 54. Do-While İle Girilen İki Sayı Arasındaki Çift Sayıları Ekrana Bastırma
 55. Rndom Sınıfı Kullanılarak OLuşturulan Dizi Elemanlarının Ortalamasını Alma
+56. Faktöriyel Hesaplama
 ## Nasıl Çalıştırılır
 
 Her bir problem için ayrı bir Java dosyası bulunmaktadır. Her dosyanın içinde problemle ilgili açıklamalar ve çözüm bulunmaktadır. Kodları çalıştırmak için herhangi bir Java IDE veya Java derleyici kullanabilirsiniz.
