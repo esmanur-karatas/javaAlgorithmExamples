@@ -7,11 +7,17 @@ Bu projede, Java kullanarak basit bir hayvanat bahçesi simülasyon programı ol
 
 ## Proje Yapısı
 .
+
 ├── src
+
 │   ├── ZooProjectWithPolymorphism.java
+
 │   ├── Animals.java
+
 │   ├── Cat.java
+
 │   └── Dog.java
+
 └── README.md
 
 -ZooProjectWithPolymorphism.java: main metodu içeren ana sınıf.
