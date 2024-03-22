@@ -108,6 +108,7 @@ Bu repo, Java dilinde temel algoritma problemlerine dair örnekler içermektedir
 54. Do-While İle Girilen İki Sayı Arasındaki Çift Sayıları Ekrana Bastırma
 55. Rndom Sınıfı Kullanılarak OLuşturulan Dizi Elemanlarının Ortalamasını Alma
 56. Faktöriyel Hesaplama
+57. Çok Biçimlilik Kullanarak Hayvanların Çıkardığı Sesler 
 ## Nasıl Çalıştırılır
 
 Her bir problem için ayrı bir Java dosyası bulunmaktadır. Her dosyanın içinde problemle ilgili açıklamalar ve çözüm bulunmaktadır. Kodları çalıştırmak için herhangi bir Java IDE veya Java derleyici kullanabilirsiniz.
